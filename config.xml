@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<icon src=”www/images/logotransparente.png” />    <name>TimeToTrain</name>
+    <description>
+       Es una aplicación que cumple con varios funcionamientos en el que podrás mejorar tu estilo de vida adquiriendo información de cómo realizar una rutina de ejercicios acorde a sus objetivos.   </description>
+    <author email="support@phonegap.com" href="http://phonegap.com">
+        Arroyo-Bogado-Marucci-Vaamonde
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
