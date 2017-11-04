@@ -6,14 +6,14 @@
         id        = "com.phonegap.helloworld"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>TimeToTrain</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Es una aplicación que cumple con varios funcionamientos en el que podrás mejorar tu estilo de vida adquiriendo información de cómo realizar una rutina de ejercicios acorde a sus objetivos.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
+        Arroyo-Bogado-Marucci-Vaamonde
     </author>
 
     <!--
